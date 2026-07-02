@@ -5,3 +5,5 @@
 # My Skills
  - Python
  - Html
+ - Coding
+ - Gamer
