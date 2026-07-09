@@ -15,3 +15,8 @@
  - UI / UX
  - Logic
  - CSS
+
+ # Education
+ - College : Hatyai Technical College
+ - Program : Information Technology
+ - Year : Vocational Certificate (Voc. Cert.3)
