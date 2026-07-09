@@ -20,3 +20,7 @@
  - College : Hatyai Technical College
  - Program : Information Technology
  - Year : Vocational Certificate (Voc. Cert.3)
+
+ # Career Goals
+ - Become a Games Developer
+ - Making 1M CCU Game
