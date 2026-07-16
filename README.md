@@ -24,3 +24,7 @@
  # Career Goals
  - Become a Games Developer
  - Making 1M CCU Game
+
+ # My Hobby
+ - Coding
+ - Plays Game
