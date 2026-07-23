@@ -33,3 +33,8 @@
  - 3 Years of Coding Lua/Luau
  - 3 Years of Making UI
  - 3 Years of Developing Games
+ 
+# About
+ - Name : Pittikan Tapparak
+ - Nickname : Karn
+ - Birthday : 26/12/2551
