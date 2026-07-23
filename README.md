@@ -27,4 +27,4 @@
 
  # My Hobby
  - Coding
- - Plays Game
+ - Movie
