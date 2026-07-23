@@ -28,3 +28,8 @@
  # My Hobby
  - Coding
  - Making UI
+
+# Experience
+ - 3 Years of Coding Lua/Luau
+ - 3 Years of Making UI
+ - 3 Years of Developing Games
