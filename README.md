@@ -28,3 +28,8 @@
  # My Hobby
  - Coding
  - Making UI
+
+# About
+ - Name : Pittikan Tapparak
+ - Nicname : Karn
+ - Birthday : 26/12/2551
