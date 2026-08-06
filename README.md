@@ -38,3 +38,7 @@
  - Name : Pittikan Tapparak
  - Nickname : Karn
  - Birthday : 26/12/2551
+
+# Favorite Place
+ - Home
+ - Garden
