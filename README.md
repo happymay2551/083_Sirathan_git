@@ -42,3 +42,7 @@
 # Favorite Food
  - Pizza
  - Stir-fried crispy pork with holy basil on rice
+ 
+# Favorite Place
+ - Home
+ - Garden
