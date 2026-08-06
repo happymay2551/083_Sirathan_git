@@ -38,3 +38,7 @@
  - Name : Pittikan Tapparak
  - Nickname : Karn
  - Birthday : 26/12/2551
+
+# Favorite Food
+ - Pizza
+ - Stir-fried crispy pork with holy basil on rice
