@@ -1,0 +1,4 @@
+- Name : Pittikan Tapparak
+- Nicname : Karn
+- Email : 67219010071@htc.ac.th
+- Hobby : Making Games
