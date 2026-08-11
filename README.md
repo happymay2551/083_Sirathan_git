@@ -1,40 +1,32 @@
 # Student Profile
-- Name : Mr. Pittikan Tapparak
-- Student ID : 67219010071
-- Phone Number : 061-293-0927
-- Email : 67219010071@htc.ac.th
-- My Hobby : Making Games
+- Name:Sirathan Pradidsakul
+- Student ID:67219010083
+- Age:18
+- Birthday:04/04/2551
+- Nationality:Thai
 
-# My Skills
- - Python
- - Html
- - Coding
- - Gamer
- - Lua / Luau
- - Roblox Studio
- - UI / UX
- - Logic
- - CSS
+# My skiils
+- Python
+- Html
+- Coding
+- Gamer
+- Word
+- Excel
+- PowerPoint
+- Canva
+- Css
 
- # Education
- - College : Hatyai Technical College
- - Program : Information Technology
- - Year : Vocational Certificate (Voc. Cert.3)
+# Education
+- College:Hatyai Technical College
+- Program:Information Technology
+- Year:Vocational Certificate (Voc. Cert.3)
 
- # Career Goals
- - Become a Games Developer
- - Making 1M CCU Game
+# Career Goals
+- Become a Software Developer
+- Learn DevOps
+- Learn Docker
 
- # My Hobby
- - Coding
- - Making UI
-
-# Experience
- - 3 Years of Coding Lua/Luau
- - 3 Years of Making UI
- - 3 Years of Developing Games
- 
-# About
- - Name : Pittikan Tapparak
- - Nickname : Karn
- - Birthday : 26/12/2551
+# My Hobby
+- Reading
+- Coding
+- Play games
