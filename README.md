@@ -35,3 +35,8 @@
 - Park
 - Waterfall
 - Sea
+
+# My favorite food
+- Noodles
+- Fried chicken
+- Iced Tea
