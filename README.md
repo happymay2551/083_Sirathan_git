@@ -30,3 +30,8 @@
 - Reading
 - Coding
 - Play games
+
+# My favorite place
+- Park
+- Waterfall
+- Sea
