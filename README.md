@@ -31,7 +31,6 @@
 - Coding
 - Play games
 
-# My faorite food
 # My favorite place
 - Park
 - Waterfall
