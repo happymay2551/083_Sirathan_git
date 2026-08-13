@@ -30,6 +30,3 @@
 - Reading
 - Coding
 - Play games
-
-# faorite food
--
