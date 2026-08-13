@@ -30,3 +30,8 @@
 - Reading
 - Coding
 - Play games
+
+# My favorite food
+- Noodles
+- Fried chicken
+- Iced Tea
